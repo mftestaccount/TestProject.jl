@@ -1,0 +1,4 @@
+name = "MyTestPkg"
+uuid = "9a1e2086-5605-11e9-21be-0f591a3b69ea"
+authors = ["Mattias Fält <mattiasf@control.lth.se>"]
+version = "0.1.0"
